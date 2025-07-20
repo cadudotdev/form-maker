@@ -1,12 +1,14 @@
-package com.cadudotdev.form_maker;
+package com.cadudotdev.formmaker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FormMakerApplication {
+public class FormMakerApplication
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		SpringApplication.run(FormMakerApplication.class, args);
 	}
 

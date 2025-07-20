@@ -1,13 +1,15 @@
-package com.cadudotdev.form_maker;
+package com.cadudotdev.formmaker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FormMakerApplicationTests {
+class FormMakerApplicationTests
+{
 
 	@Test
-	void contextLoads() {
+	void contextLoads()
+	{
 	}
 
 }
